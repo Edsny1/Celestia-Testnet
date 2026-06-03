@@ -1,5 +1,3 @@
-Here is the clean, professional English installation guide for the **Celestia Mocha Testnet** (`mocha-4`), structured for your GitHub repository and fully integrated with **Cosmovisor**.
-
 ---
 
 # Celestia Mocha Testnet Node Installation Guide (`mocha-4`)
