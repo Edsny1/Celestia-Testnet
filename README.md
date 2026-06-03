@@ -1,5 +1,3 @@
----
-
 # Celestia Mocha Testnet Node Installation Guide (`mocha-4`)
 
 ## 📋 Hardware Requirements
